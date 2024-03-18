@@ -1,0 +1,7 @@
+﻿fname,dob,address,phone,state,zip ,email,gender ,type,agent_name,account_name,category_name,company_name,policy_number,policy_start,policy_end,collection_id,cmpny_collection_id
+Amit,24-03-85,govindpur,9876533,Jharkhand,831004,d.amit.24@gmail.com,male,employee,kamal,BFS,CAT1,ABC,AZ245,23-07-90,29-10-20,123,345
+Amit,25-03-85,govindpur,9876534,Jharkhand,831005,d.amit.24@gmail.com,male,employee,anand,OIL,CAT2,THR,AZ246,24-07-90,30-10-20,123,345
+Amit,26-03-85,govindpur,9876535,Jharkhand,831006,d.amit.24@gmail.com,male,employee,vijay,BTS,CAT3,TCS,AZ247,25-07-90,31-10-20,123,345
+Amit,27-03-85,govindpur,9876536,Jharkhand,831007,d.amit.24@gmail.com,male,employee,lala,LLP,CAT4,WIPRO,AZ248,26-07-90,01-11-20,123,345
+Amit,28-03-85,govindpur,9876537,Jharkhand,831008,d.amit.24@gmail.com,male,employee,vimal,BFS,CAT5,ABC,AZ249,27-07-90,02-11-20,123,345
+Amit,29-03-85,govindpur,9876538,Jharkhand,831009,d.amit.24@gmail.com,male,employee,sohan,ACC,CAT6,TCS,AZ250,28-07-90,03-11-20,123,345
